@@ -48,9 +48,8 @@ Experienced Ruby on Rails developer who is enthusiastic about writing clean, eff
 * Familiar with Relational Database Design Concepts
 * Proficient in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development
 
-- ##### Visit [My Codepen](https://codepen.io/ozarion/) to see some of my Front-End Projects
-- ##### Visit [My Github Profile](https://github.com/Ozarion)
-
+- ##### Visit [My Codepen](https://codepen.io/malaikaMI/) to see some of my Front-End Projects
+- ##### Visit [My Github Profile](https://github.com/malaikaMI)
 
 # Personal Information
 * **Name**            : Malaika Ishtiaq          
