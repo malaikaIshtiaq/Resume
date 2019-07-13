@@ -3,7 +3,6 @@
 * Karachi, Pakistan   
 *  **Email**: malaikamic@gmail.com  
 * **Mobile**: +92.302.2508199
-* **Portfolio**: [Codepen](https://codepen.io/MalaikaIshtiaq/)
 * **Linkedin**: [Profile](https://www.linkedin.com/in/malaika-ishtiaq-17a502169/)
 
 ## Professional Summary
