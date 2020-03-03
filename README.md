@@ -2,23 +2,12 @@
 =================
 * Karachi, Pakistan   
 *  **Email**: malaikamic@gmail.com  
-* **Mobile**: +92.302.2508199
+* **Mobile**: +92 311 2158744
 * **Linkedin**: [Profile](https://www.linkedin.com/in/malaika-ishtiaq-17a502169/)
 
 ## Professional Summary
 I am a creative problem solver, web designer who is proficient with Ruby on Rails, HTML, CSS, and Javascript. I Love Illustration with pure CSS. A Full Stack Ruby On Rails Developer who is enthusiastic about writing clean, efficient, and accessible code in a functional framework. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize data storage, e-commerce functionality, and fluidity across mobile platforms. A leader in identifying opportunities for applications development.
 
-## Front End
-* CSS Animation And Illustration
-* CSS (Proficient in Scss, CSS Grids, CSS flexbox, CSS Animations, Media Queries)
-* Less/Sass/Scss
-* Pug/Haml
-* Javascript + ES6
-* ERB
-* Jquery
-* Bootstrap
-* HTML5 
-* Wordpress (include SEO)
 
 ## Back End
 * Ruby On Rails
@@ -33,13 +22,25 @@ I am a creative problem solver, web designer who is proficient with Ruby on Rail
 * Familiar with Vagrant and Virtual box
 * Proficient in Git Version Control
 
+## Front End
+* CSS Animation And Illustration
+* CSS (Proficient in Scss, CSS Grids, CSS flexbox, CSS Animations, Media Queries)
+* Less/Sass/Scss
+* Pug/Haml
+* Javascript + ES6
+* ERB
+* Jquery
+* Bootstrap
+* HTML5 
+* Wordpress
+
 ## Skills
-* Profiecient in making pure CSS animations and illustration.
-* Developed and maintained View layer of MVC framework using jQuery, HTML, CSS and sass framework.
 * Proficient in Ruby On Rails.
 * Knowledgeable in Javascript.
 * Familiar with the automation of testing platforms such as RSpec and minitest.
 * Able to integrate several databases together to form one database system.
+* Profiecient in making pure CSS animations and illustration.
+* Developed and maintained View layer of MVC framework using jQuery, HTML, CSS and sass framework.
 * Masterful with UI styling tool Bootstrap and Less / Scss and Sass (CSS preprocessor).
 * Clean code writer that is fully versed in object-oriented coding.
 * Competent with templating languages on the server side such as ERB,Pug and Haml.
@@ -52,8 +53,14 @@ I am a creative problem solver, web designer who is proficient with Ruby on Rail
 * Familiar with Relational Database Design Concepts
 * Proficient in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development
 
-- ##### Visit [My Codepen Profile](https://codepen.io/MalaikaIshtiaq/) to see my Front-End Projects.
+
+## Personal Projects
+* Gharasti is a real estate web app created with Ruby On Rails currently in development [Visit](https://gharasti.herokuapp.com)
+* Tasty.blog is a social media website created with Ruby On Rails for chefs and food lovers currently in development  [Visit](https://tasty-blog.herokuapp.com)
+* Eventupp is an event management website created with Ruby On Rails [Visit](https://eventupp.herokuapp.com)
+
 - ##### Visit [My Github Profile](https://github.com/malaikaIshtiaq/) to see my Back-End Projects.
+- ##### Visit [My Codepen Profile](https://codepen.io/MalaikaIshtiaq/) to see my Front-End Projects.
 
 # Personal Information
 * **Name**            : Malaika Ishtiaq          
