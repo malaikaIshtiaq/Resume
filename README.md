@@ -4,10 +4,10 @@
 *  **Email**: malaikamic@gmail.com  
 * **Mobile**: +92 311 2158744
 * **Linkedin**: [Profile](https://www.linkedin.com/in/malaika-ishtiaq-17a502169/)
-* **Address**: Flat# B58, Sunny Castle Blodc 14 Gulisluan-Ocher Karachi, Sindh. 75290 
+* **Address**: Flat# B58, Sunny Castle Block 14 Gulisluan-Ocher Karachi, Sindh. 75290 
 
 ## Professional Summary
-I am a creative problem solver, web designer who is proficient with Ruby on Rails, HTML, CSS, and Javascript. I Love Illustration with pure CSS. A Full Stack Ruby On Rails Developer who is enthusiastic about writing clean, efficient, and accessible code in a functional framework. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize data storage, e-commerce functionality, and fluidity across mobile platforms. A leader in identifying opportunities for applications development.
+I am a creative problem solver, web designer who is proficient with Ruby on Rails, HTML, CSS, and Javascript. I Love Illustration with pure CSS. A Full Stack Ruby On Rails Developer who is enthusiastic about writing clean, efficient, and accessible code in a functional framework. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize data storage, e-commerce functionality, and fluidity across mobile platforms.
 
 
 ## Work Experience
