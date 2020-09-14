@@ -13,7 +13,7 @@ I am a creative problem solver, web designer who is proficient with Ruby on Rail
 ## Work Experience
 
 ### Freelance Web Developer + Designer - Self Employed,
-#### Karachi Sindh / Nov 2019- Present 
+#### Karachi Sindh / March 2018 - Present 
 * Determining the structure and design of web pages. 
 * Ensuring user experience determines design choices. 
 * Developing features to enhance the user experience. 
@@ -26,17 +26,15 @@ I am a creative problem solver, web designer who is proficient with Ruby on Rail
 * Communicating design ideas using user flows, process flows, site maps and wireframes. 
 * Designing sample pages including colors and fonts. 
 * Incorporating functionalities and features into websites. 
-
-### Web Designer and Developer - Ozanon, 
-#### Karachi Sindh / Mar 2018- Jan 2019 
 * Translated established creative direction into conceptual ideas. 
 * Created wireframes, screen-flow diagrams and UI spec documentation. 
 * Conducted analysis to address website issues leading to optimization and repair of site. 
 * Identified and eliminated website bugs to improve user experience. 
 * Applied color theory and lighting techniques in drawings and illustrations to add excitement, focus and depth. 
 * Collected, defined and translated user requirements into project designs and implementation plans. 
-* Collaborated with in-house web designers to create sleek and innovative U I design. 
-* Developed landing pages, dashboards and online applications using modem technologies. 
+* Collaborated with in-house web designers to create sleek and innovative UI design. 
+* Developed landing pages, dashboards and online applications using modern technologies. 
+
 
 ## Education
 ### Intermediate in Computer Science
