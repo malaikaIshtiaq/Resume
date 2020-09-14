@@ -36,12 +36,6 @@ I am a creative problem solver, web designer who is proficient with Ruby on Rail
 * Developed landing pages, dashboards and online applications using modern technologies. 
 
 
-## Education
-### Intermediate in Computer Science
-* Govt. College For Women Karachi 
-### Matriculation 
-* Karachi Board Of Secondary Education 
-
 ## Certification
 
 * **Resposive Web Design Certification - FreeCodeCamp** [View](https://www.freecodecamp.org/certification/fccae445c9c-e762-4135-87c9-7c3ea43ecb1f/responsive-web-design)
