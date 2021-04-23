@@ -7,14 +7,14 @@
 - **Address**: Flat# B58, Sunny Castle Block 14 Gulisluan-Ocher Karachi, Sindh. 75290    
 
 ## Professional Summary     
-
-- Proficient in developing Ruby on Rails web application from scratch.     
-- Proficient in deploying, maintaining and optimizing Ruby on Rails application code and database.     
+   
 - Highly skilled in Custom CSS Web Design. [Visit my Codepen](https://codepen.io/MalaikaIshtiaq/)     
 - Experienced in developing Wordpress Websites and Custom Wordpress theme development. Backup, migrate, maintain experience as Wordpress web master.    
 - Experienced in developing Ecommerce stores using Wordpress WooCommerce with Payment integrations.     
 - Experienced in UI/UX mockup designs using Figma, Inkscape and Adobe Illustrator tools.    
-- Experienced in turning mockups into websites with fluid animations and semantic UIs.     
+- Experienced in turning mockups into websites with fluid animations and semantic UIs.    
+- Proficient in developing Ruby on Rails web application from scratch.     
+- Proficient in deploying, maintaining and optimizing Ruby on Rails application code and database.   
 - Active Contributer for many open source projects in Ruby on Rails on Github. [Visit my Github](https://github.com/malaikaIshtiaq/)     
 - Combining my creative art and programming knowledge to build many project ideas and prototypes.     
 
@@ -39,6 +39,7 @@
 
 #### Karachi Sindh / July 2019 - Present
 
+- Creating beautiful CMS websites and ecommerce stores with Wordpress.
 - Converting People ideas into beautiful illustrations.
 - Designing and Developing Responive web applications using modern technonlogies.
 - Designing sample pages including colors and fonts.    
@@ -50,8 +51,23 @@
 - **Resposive Web Design Certification - FreeCodeCamp** [View](https://www.freecodecamp.org/certification/fccae445c9c-e762-4135-87c9-7c3ea43ecb1f/responsive-web-design)
 - **Full Stack Ruby On Rails Developer - TheOdinProject**
 
+
+## Front End
+
+- CSS Animation And Illustration    
+- CSS (Proficient in Scss, CSS Grids, CSS flexbox, CSS Animations, Media Queries)     
+- Less/Sass/Scss     
+- Pug/Haml     
+- Javascript          
+- ERB     
+- Jquery     
+- Bootstrap    
+- HTML5     
+- Wordpress CMS    
+- 
 ## Back End
 
+- Wordpress
 - Ruby On Rails     
 - Sinatra     
 - MySQL      
@@ -66,19 +82,8 @@
 - Familiar with Vagrant and Virtual box     
 - Proficient in Git Version Control     
 - Heroku CD/CI     
+- Cpanel Administration (Email setup, Backup, Maintenance and configuration)
 
-## Front End
-
-- CSS Animation And Illustration    
-- CSS (Proficient in Scss, CSS Grids, CSS flexbox, CSS Animations, Media Queries)     
-- Less/Sass/Scss     
-- Pug/Haml     
-- Javascript          
-- ERB     
-- Jquery     
-- Bootstrap    
-- HTML5     
-- Wordpress CMS    
      
 ## Other technical skills
 
