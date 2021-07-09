@@ -64,7 +64,7 @@
 - Bootstrap    
 - HTML5     
 - Wordpress CMS    
-- 
+
 ## Back End
 
 - Wordpress
@@ -96,10 +96,9 @@
 
 - Gharasti is a real estate web app created with Ruby On Rails currently in development [Visit](https://gharasti.herokuapp.com)
 - Tasty.blog is a social media website created with Ruby On Rails for chefs and food lovers currently in development [Visit](https://tasty-blog.herokuapp.com)
-
-* ##### Visit [My Github Profile](https://github.com/malaikaIshtiaq/) to see my Back-End Projects.
-* ##### Visit [My Codepen Profile](https://codepen.io/MalaikaIshtiaq/) to see my Front-End Projects.
-* ##### Visit [My Instagram Profile](https://www.instagram.com/minimal.artistic/) to see my Digital Illustrations.
+- Visit [My Github Profile](https://github.com/malaikaIshtiaq/) to see my Back-End Projects.
+- Visit [My Codepen Profile](https://codepen.io/MalaikaIshtiaq/) to see my Front-End Projects.
+- Visit [My Instagram Profile](https://www.instagram.com/minimal.artistic/) to see my Digital Illustrations.
 
 # Personal Information
 
