@@ -4,7 +4,7 @@
 - **Email**: malaikamic@gmail.com     
 - **Mobile**: +92 311 2158744     
 - **Linkedin**: [Profile](https://www.linkedin.com/in/malaika-ishtiaq-17a502169/)    
-- **Address**: Flat# B58, Sunny Castle Block 14 Gulisluan-Ocher Karachi, Sindh. 75290    
+- **Address**: Flat# B58, Sunny Castle, Gulistan-e-johar Block-14, Karachi, Sindh. 75290    
 
 ## Professional Summary     
    
