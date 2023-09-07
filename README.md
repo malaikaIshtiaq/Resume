@@ -1,110 +1,173 @@
-# **Malaika Ishtiaq**    
+# Malaika Ishtiaq
 
-- Karachi, Pakistan    
-- **Email**: malaikamic@gmail.com     
-- **Mobile**: +92 311 2158744     
-- **Linkedin**: [Profile](https://www.linkedin.com/in/malaika-ishtiaq-17a502169/)    
-- **Address**: Flat# B58, Sunny Castle, Gulistan-e-johar Block-14, Karachi, Sindh. 75290    
+## UI/UXDESIGNER
 
-## Professional Summary     
-   
-- Highly skilled in Custom CSS Web Design. [Visit my Codepen](https://codepen.io/MalaikaIshtiaq/)     
-- Experienced in developing Wordpress Websites and Custom Wordpress theme development. Backup, migrate, maintain experience as Wordpress web master.    
-- Experienced in developing Ecommerce stores using Wordpress WooCommerce with Payment integrations.     
-- Experienced in UI/UX mockup designs using Figma, Inkscape and Adobe Illustrator tools.    
-- Experienced in turning mockups into websites with fluid animations and semantic UIs.    
-- Proficient in developing Ruby on Rails web application from scratch.     
-- Proficient in deploying, maintaining and optimizing Ruby on Rails application code and database.   
-- Active Contributer for many open source projects in Ruby on Rails on Github. [Visit my Github](https://github.com/malaikaIshtiaq/)     
-- Combining my creative art and programming knowledge to build many project ideas and prototypes.     
+Email:malaikamic@gmail.com
+Portfolio:malaikaa.webflow.io
+Instagram:@minimal.artistic
+Behance:www.behance.net/malaikaishtiaq
 
+PROFESSIONALSUMMARY
 
-## Work Experience
+ExperiencedUI/UXDesignerwithadedicatedfocusoncraftingengaginganduser-intuitive
+digitalexperiences.Proficientindesigningforbothwebandmobileplatforms,adeptat
+conductingthoroughuserresearchandmeticuloususabilitytestingtoensureoptimal
+functionality.
 
-### Full Stack Developer - Ozarion,
-#### Karachi Sindh / March 2017 - 2019 July
+WORKEXPERIENCE
 
-- Determining the structure and design of web pages.    
-- Developing features to enhance the user experience.    
-- Optimizing web pages for maximum speed and scalability.    
-- Striking a balance between functional and aesthetic design.    
-- Developed landing pages, dashboards and online applications using modern technologies.      
-- Identified and eliminated website bugs to improve user experience.     
-- Created wireframes, screen-flow diagrams and UI spec documentation.     
-- Ensuring web design is optimized for smartphones.    
-- Ensuring user experience determines design choices.    
-- Designing and Developing Ecommerce Websites.
+```
+WRAPPEDBYAIRDXB(2023JULY— 2023 AUG)-CONTRACT
+CLIENT:AIRDXB
+ROLE:WEBDESIGNER&DEVELOPER
+```
+- DevelopedaWordPresswebsiteandguaranteedanon-timelaunchbycloselyfollowing
+    projecttimelines.
+- Createdanintuitivelayoutforimprovedusercomprehension.
+- Ensuredthewebsitewasresponsiveandoptimizedforvariousdevices.
+- Maintainedeffectivecommunicationandcollaborationwiththeclient.
 
-### Freelance Web Developer + Designer - Self Employed,
+```
+OIRDXD(2022MAY— 2022 JUNE)-CONTRACT
+CLIENT:OIRDXDVACATIONHOMESRENTALLLC
+ROLE:WEBDESIGNER&DEVELOPER
+```
+- Designedanddevelopedaclean,user-friendlylandingpage.
+- Focusedonshowcasingthecompany'sserviceswithsimplicity.
+- Ensuredresponsivedesignforvariousdevices.
+- ImplementedSEOtechniquesforbettervisibility.
+- Conductedregularmaintenanceandperformancemonitoring.
+- Collaboratedwiththeteamforfeedbackandimprovements.
+- Emphasizeduserexperienceenhancement.
+- Ensuredsecurityanddatabackups.
 
-#### Karachi Sindh / July 2019 - Present
-
-- Creating beautiful CMS websites and ecommerce stores with Wordpress.
-- Converting People ideas into beautiful illustrations.
-- Designing and Developing Responive web applications using modern technonlogies.
-- Designing sample pages including colors and fonts.    
-- Incorporating functionalities and features into websites.    
-- Applied color theory and lighting techniques in drawings and illustrations to add excitement, focus and depth.     
-
-## Certification
-
-- **Resposive Web Design Certification - FreeCodeCamp** [View](https://www.freecodecamp.org/certification/fccae445c9c-e762-4135-87c9-7c3ea43ecb1f/responsive-web-design)
-- **Full Stack Ruby On Rails Developer - TheOdinProject**
+## FORGEWELL(2022 APRIL— 2022 SEP)-CONTRACT
 
 
-## Front End
+```
+CLIENT:CONNORSWENSONCOACHINGLtd.
+ROLE:UI/UXDESIGNER,WEBDEVELOPER,GRAPHICDESIGNER
+```
+- Designedanimpactfullogo,capturingtheessenceofthecompany'smission.
+- CreatedintuitiveUI/UXdesignforthewebsite,enhancinguserexperienceand
+    engagement.
+- Addedanimationsandinteractionstomakethewebsitestandoutmore.
+- DevelopedresponsivewebsiteusingWebflow,ensuringseamlessperformanceand
+    cross-browsercompatibility.
 
-- CSS Animation And Illustration    
-- CSS (Proficient in Scss, CSS Grids, CSS flexbox, CSS Animations, Media Queries)     
-- Less/Sass/Scss     
-- Pug/Haml     
-- Javascript          
-- ERB     
-- Jquery     
-- Bootstrap    
-- HTML5     
-- Wordpress CMS    
+```
+ONEPERCENTWISDOM(2022 AUG— 2023 MAY)-CONTRACT
+CLIENT:CONNORSWENSONCOACHINGLtd.
+ROLE:UI/UXDESIGNER,WEBFLOWDEVELOPER
+```
+- Designedacaptivatinglogoanddevelopedacohesivebrandingstrategy.
+- Createdcustomgraphicsandvisuals,establishingavisuallyappealingbrandidentity.
+- Developedauser-friendlyblogwebsiteinWebflow,ensuringseamlessnavigationand
+    responsiveness.
+- Successfullylaunchedwebsite,receivingpositiveuserfeedback.
 
-## Back End
+```
+ANNASTEBBINGSVA(2022FEB— 2022 JULY)-FREELANCE
+CLIENT:ANNASTEBBINGS
+ROLE:WORDPRESSDEVELOPER,GRAPHICDESIGNER
+```
+- BuiltaprofessionalandfunctionalwebsiteusingWordPress,ensuringoptimaluser
+    experience.
+- Developedcomprehensivebrandingstrategy,reflectingAnnaStebbings'personalstyle
+    andprofessionalism.
+- Establishedcohesivevisualidentitythroughcolorschemes,typography,andgraphical
+    elements.
+- Successfullylaunchedwebsiteandbranding,strengtheningAnna'sonlinepresence.
 
-- Wordpress
-- Ruby On Rails     
-- Sinatra     
-- MySQL      
-- PostgreSQL    
-- Familiar with the automation of testing platforms such as RSpec and minitest.    
+```
+TIMEFLOW(2021APRIL— 2021 NOV)-CONTRACT
+CLIENT:ROSALINDCROAD
+ROLE:UI/UXDESIGNER&GRAPHICDESIGNER
+```
+- Developedauniquebrandidentityfrominitialconcepts.
+- Designedastandoutlogothatrepresentedthebrand'sessence.
+- Craftedconsistentandcaptivatingsocialmediabanners.
+- Createdacompletebrandidentitypackage,includingcolors,typography,andstyle
+    guidelines.
+- Producedcustomgraphicsinlinewiththebrand'sidentity.
 
-## DevOps
 
-- Experience in using Ubuntu Linux (Debian)     
-- Familiar with Bash cli    
-- Familiar with Ruby scripting and basic task automation     
-- Familiar with Vagrant and Virtual box     
-- Proficient in Git Version Control     
-- Heroku CD/CI     
-- Cpanel Administration (Email setup, Backup, Maintenance and configuration)
+- Designedavisuallyappealinganduser-friendlywebsiteinterface.
+- Developedthewebsite,includingfeatureslikeablogandnewslettersignup.
+- Conductedusertestingandintegratedfeedbackforwebsiteoptimization.
+- ImplementedSEObestpracticesforimprovedsearchenginevisibility.
+- Setupanalyticstoolsforongoingwebsiteperformancemonitoring.
+- Ensuredfullresponsivenessforaseamlessuserexperienceacrossdevices.
 
-     
-## Other technical skills
+## OZARION(2017MAR— 2019 JULY)-FULLTIME
 
-- Proficient in Essential Data Structures, Algorithms and Problem Solving     
-- Familiar with Object Oriented Programming and Design Paradigm      
-- Familiar with Relational Database Design Concepts      
-- Proficient in Unit Testing, Functional Testing, Quality Assurance and Test Driven Development      
+## ROLE:UI/UXDESIGNER&WEBDEVELOPER
 
-## Personal Projects
+- Determiningthestructureanddesignofwebpages.
+- Developingfeaturestoenhancetheuserexperience.
+- Optimizingwebpagesformaximumspeedandscalability.
+- Strikingabalancebetweenfunctionalandaestheticdesign.
+- Developedlandingpages,dashboardsandonlineapplicationsusingmodern
+    technologies.
+- Createdwireframes,screen-flowdiagramsandUIspecdocumentation.
+- DesigningandDevelopingEcommerceWebsites
 
-- Gharasti is a real estate web app created with Ruby On Rails currently in development [Visit](https://gharasti.herokuapp.com)
-- Tasty.blog is a social media website created with Ruby On Rails for chefs and food lovers currently in development [Visit](https://tasty-blog.herokuapp.com)
-- Visit [My Github Profile](https://github.com/malaikaIshtiaq/) to see my Back-End Projects.
-- Visit [My Codepen Profile](https://codepen.io/MalaikaIshtiaq/) to see my Front-End Projects.
-- Visit [My Instagram Profile](https://www.instagram.com/minimal.artistic/) to see my Digital Illustrations.
+SKILLS
 
-# Personal Information
+```
+● UserInterfaceDesign
+● Wireframingandprototyping
+● AdobeXD,Figma
+● UsabilityTesting
+● UXFlows&InformationArchitecture
+● Brandingandlogodesign
+● ProficientinWebflowandWordPress
+● Responsivewebdesign
+● Printanddigitalmediadesign
+```
+```
+● AdobePhotoshop,Illustrator,Inkscape
+● HTML,CSS,Javascript
+● Excellentcommunicationskills,both
+writtenandverbal
+● Strongattentiontodetailandabilityto
+prioritizetaskseffectively
+● Provenabilitytoworkcollaborativelyas
+partofateam
+```
+## EDUCATION
 
-- **Name** : Malaika Ishtiaq
-- **Gender** : Female
-- **Nationality** : Pakistani
-- **DOB** : 25/07/2002
-- **Maritual Status** : Single
-- **Languages** : English,Urdu
+- BachelorofScienceinComputerScience
+    VirtualUniversityofPakistan
+    StartDate: 2020 - Present
+- ResponsiveWebDesignCertification
+    Freecodecamp
+    ViewCertificate
+- IntermediateinComputerScience
+    Govt.GirlsCollege( 2018 - 2020)
+- Matriculation
+    KarachiBoardofSecondaryEducation( 2016 - 2017)
+
+
+## PROJECTLINKS
+
+- FORGEWELL-COACHINGCOMPANY[VisitWebsite]
+- ONEPERCENTWISDOM-BLOGWEBSITE[VisitWebsite]
+- ANNASTEBBINGSVA-VIRTUALASSISTANTWEBSITE[VisitWebsite]
+- WRAPPEDBYAIRDXB-DUBAI’SPREMIERHOMEWRAPPINGSERVICE[VisitWebsite]
+- OIRDXD-VACATIONHOMESRENTAL[VisitWebsite]
+- TIMEFLOW-COACHINGCOMPANY[ViewCompanyProfile]
+
+OTHERPROJECTS&COLLABORATIONS
+
+## - CAMPAIGNILLUSTRATION-TEIKAVENDING
+
+## - MAGAZINECOVERDESIGN-OURSTREETSNOW
+
+## - JOURNALCOVERDESIGN-MANIFESTHOUSE
+
+## - MAGAZINECOVERDESIGN-OURSTREETSNOW(ANNIVERSARYEDITION)
+
+```
+Viewdetailsaboutmyprojectsonmy[Website]
+```
